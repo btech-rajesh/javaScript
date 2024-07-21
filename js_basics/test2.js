@@ -24,6 +24,9 @@ let state;
 
 
 // object
+// Data 7  primitive-types=>Number,String,Boolean,Undefined,Null(typeof object),BigInt(123)(123n),Symbol
+
+// NOn-primitive=>objects=>it is a collection of values->(array,function)
 
 console.log(typeof undefined); // undefined
 console.log(typeof null); // object
