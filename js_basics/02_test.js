@@ -1,1 +1,0 @@
-console.log("this is my 2nd file of js");
