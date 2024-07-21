@@ -13,9 +13,7 @@
 // const=variable can't be re-declared or updated.a block {} scope variable
   
 
-// Data 7  primitive-types=>Number,String,Boolean,Undefined,Null(typeof object),BigInt(123)(123n),Symbol
 
-// NOn-primitive=>objects=>it is a collection of values->(array,function)
 
 // console.log("rajesh")
 const userId=1294;
